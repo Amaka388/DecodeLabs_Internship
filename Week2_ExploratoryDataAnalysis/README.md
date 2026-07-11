@@ -9,6 +9,14 @@ This project focused on exploring the cleaned dataset from Week 1 to understand 
 - Count total orders and summarize key metrics
 - Use Power Query to explore and shape the dataset
 
+## Screenshots
+
+![EDA screenshot 1](Screenshot%202026-06-27%20212725.png)
+
+![EDA screenshot 2](Screenshot%202026-06-27%20212917.png)
+
+![EDA screenshot 3](Screenshot%202026-06-27%20213037.png)
+
 ## Tools Used
 - Power Query
 - Pivot Tables
