@@ -3,6 +3,9 @@
 ## Project Description
 The purpose of this project was to clean and prepare a raw business dataset for analysis using Microsoft Excel. Data quality issues such as duplicate records, whitespace inconsistencies, and unstructured formatting were identified and corrected.
 
+## Messy Dataset Before Cleaning
+- ![Week 1 screenshot](Screenshot%202026-07-11%20220654.png)
+
 ## Objectives
 - Remove duplicate records
 - Trim extra white spaces from text fields
