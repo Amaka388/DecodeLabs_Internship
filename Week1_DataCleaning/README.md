@@ -6,6 +6,10 @@ The purpose of this project was to clean and prepare a raw business dataset for 
 ## Messy Dataset Before Cleaning
 - ![Week 1 screenshot](Screenshot%202026-07-11%20220654.png)
 
+## Cleaning in Power Query
+-Power Query was used to clean, transform, and standardize the dataset.
+- ![Week 1 screenshot](Screenshot%2026-06-19%111856.png)
+
 ## Objectives
 - Remove duplicate records
 - Trim extra white spaces from text fields
