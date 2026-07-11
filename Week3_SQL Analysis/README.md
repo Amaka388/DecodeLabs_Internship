@@ -11,6 +11,25 @@ This project involved importing the dataset into SQL Server Management Studio (S
 - Write SELECT, WHERE, ORDER BY, and GROUP BY queries
 - Perform aggregations (COUNT, SUM, AVG) to generate business insights
 
+## SELECT & WHERE CLAUSES, GROUP BY & ORDER BY
+
+-Screenshots
+![SQL screenshot 1](Screenshot%202026-07-11%20214519.png)
+
+![SQL screenshot 2](Screenshot%202026-07-11%20214615.png)
+
+![SQL screenshot 3](Screenshot%202026-07-11%20214708.png)
+
+![SQL screenshot 4](Screenshot%202026-07-11%20214751.png)
+
+## AGGREGATION (SUM, COUNT, AVERAGE...)
+
+![SQL screenshot 5](Screenshot%202026-07-11%20214842.png)
+
+![SQL screenshot 6](Screenshot%202026-07-11%20214934.png)
+
+![SQL screenshot 7](Screenshot%202026-07-11%20215024.png)
+
 ## Tools Used
 - Microsoft SQL Server Management Studio (SSMS)
 - T-SQL
