@@ -14,6 +14,9 @@ The purpose of this project was to clean and prepare a raw business dataset for 
 - Extract Year from OrderDate
 - Standadize data
 
+## Cleaned Data
+-![Week 1 screenshot](Screenshot%2026-06-19%112855.png)
+
 ## Tools Used
 - Microsoft Excel
 
