@@ -1,1 +1,18 @@
-WEEK ONE PROJECT: DATA CLEANING
+# Week 1: Data Cleaning and Preparation
+
+## Project Description
+The purpose of this project was to clean and prepare a raw business dataset for analysis using Microsoft Excel. Data quality issues such as duplicate records, whitespace inconsistencies, and unstructured formatting were identified and corrected.
+
+## Objectives
+- Remove duplicate records
+- Trim extra white spaces from text fields
+- Convert the raw dataset into a structured Excel Table
+- Prepare the dataset for further exploratory analysis
+- Extract Year from OrderDate
+- Standadize data
+
+## Tools Used
+- Microsoft Excel
+
+## Summary
+The dataset was cleaned by checking for and removing duplicate entries, trimming whitespace across text columns, and converting the range into a formatted Table to support easier filtering, sorting, and formula consistency in later analysis.
